@@ -1,0 +1,25 @@
+input[type="text"],
+input[type="text"]:focus{
+   color:#fff;
+    background:cadetblue;
+    padding:10px;
+}
+
+.word-list li{
+    display:inline-block;
+    padding:5px;
+}
+
+.filtered{
+    display:none !important;
+}
+
+.collector{
+    box-shadow:4px 4px 4px #666;
+}
+
+.clear-field{
+    max-width:200px;
+    background:black;
+    color:#fff;
+}
